@@ -1,0 +1,131 @@
+/* Tag-Selectors */
+body{
+  font-family: 'Staatliches', cursive;
+}
+h1{
+  color: #fff;
+  line-height: 1.5 !important;
+  width: 90%;
+  font-size: 3.5rem !important;
+  font-family: 'Righteous', cursive;
+}
+h2{
+  font-family: 'Staatliches', cursive;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h5{
+  color: #fff;
+  margin: 5% 3% 5% 0 !important;
+  font-family: 'Staatliches', cursive;
+  font-size: 1.3rem !important;
+}
+h3{
+  font-family: 'Staatliches', cursive;
+  font-size: 3.5rem !important;
+  line-height: 1.5;
+}
+p{
+  font-family: 'Staatliches', cursive;
+  font-size: 1.3rem !important;
+}
+/* Class-Selectors */
+.container{
+  padding: 3% 15%;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem !important;
+  font-family: 'Righteous', cursive;
+}
+.navbar{
+  padding-bottom: 4.5rem !important;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem !important;
+  font-family: 'Staatliches', cursive;
+}
+.title-image{
+  width: 100%;
+}
+.feature-box{
+  text-align: center;
+  line-height: 2;
+  padding: 7% 15%;
+  font-family: 'Staatliches', cursive;
+}
+.profile{
+  color: #ff4c68;
+  margin-bottom: 1rem;
+}
+.profile:hover{
+  color: black;
+}
+.about-me{
+  font-size: 2.2rem !important;
+}
+.features{
+  font-size: 1.3rem !important;
+  width: 50%;
+  margin: 0 auto;
+}
+.testimonial-image{
+  width: 10% !important;
+}
+.testimonial-content{
+  width: 60%;
+  margin: 20px auto;
+  font-family: 'Staatliches', cursive;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.card-title{
+  color: black;
+}
+.card-text{
+  color: black;
+}
+.skill-column{
+  padding: 3% 2%;
+}
+.contact-para{
+  margin: 10px auto;
+  width: 50%;
+}
+.copyright{
+  font-size: 25px;
+  margin-top: 20px;
+}
+.socials{
+  margin: 20px 10px !important;
+}
+/* ID-Selectors */
+#title{
+  background-color: #ff4c68;
+}
+#testimonials{
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+}
+#skills{
+  padding: 100px;
+  text-align: center;
+}
+#contact{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 100px;
+  line-height: 2;
+}
+#footer{
+  text-align: center;
+  padding: 50px;
+}
